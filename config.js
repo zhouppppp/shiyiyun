@@ -19,28 +19,28 @@ window.config={
                 key: 'windows',
                 title: 'Windows客户端',
                 icon: 'ri:windows-fill',
-                downloadLink: 'https://github.com/2dust/v2rayN/releases/download/6.55/zz_v2rayN-With-Core-SelfContained.7z/', // Windows客户端下载地址
+                downloadLink: 'https://github.com/2dust/v2rayN/releases/download/6.55/zz_v2rayN-With-Core-SelfContained.7z', // Windows客户端下载地址
                 knowledgeLink: '/dashboard/knowledge/10', // 使用教程地址
             },
             {
                 key: 'mac',
                 title: 'Mac客户端',
                 icon: 'ri:finder-fill',
-                downloadLink: 'https://github.com/MetaCubeX/ClashX.Meta/releases/', // Mac客户端下载地址
+                downloadLink: 'https://github.com/MetaCubeX/ClashX.Meta/releases', // Mac客户端下载地址
                 knowledgeLink: '/dashboard/knowledge/8', // 使用教程地址
             },
             {
                 key: 'android',
                 title: 'Android客户端',
                 icon: 'ri:android-fill',
-                downloadLink: 'https://github.com/2dust/v2rayNG/releases/tag/1.8.38/', // Android客户端下载地址
+                downloadLink: 'https://github.com/2dust/v2rayNG/releases/tag/1.8.38', // Android客户端下载地址
                 knowledgeLink: '/dashboard/knowledge/11', // 使用教程地址
             },
             {
                 key: 'ios',
                 title: 'iOS客户端',
                 icon: 'ri:apple-fill',
-                downloadLink: 'https://apps.apple.com/tw/app/shadowrocket/id932747118/', // iOS客户端下载地址
+                downloadLink: 'https://apps.apple.com/tw/app/shadowrocket/id932747118', // iOS客户端下载地址
                 knowledgeLink: '/dashboard/knowledge/12', // 使用教程地址
             },
             {
